@@ -2,11 +2,11 @@
 This project is a cyberbullying severity classifier that utilizes natural language processing (NLP) techniques and machine learning to classify the severity of cyberbullying tweets into three categories: Low, Medium, and High.
 
 ## Features
-1. Performs sentiment analysis using TextBlob to assess the sentiment polarity of tweets.
-2. Utilizes spaCy for tokenization and lemmatization of tweet text.
-3. Implements custom rules based on keyword detection and sentiment polarity for severity classification.
-4. Constructs a deep learning model using TensorFlow and Keras for automated severity classification.
-5. Provides visualization of model training history and evaluation metrics.
+* Performs sentiment analysis using TextBlob to assess the sentiment polarity of tweets.
+* Utilizes spaCy for tokenization and lemmatization of tweet text.
+* Implements custom rules based on keyword detection and sentiment polarity for severity classification.
+* Constructs a deep learning model using TensorFlow and Keras for automated severity classification.
+* Provides visualization of model training history and evaluation metrics.
    
 ## Prerequisites
 To run this project, you need Python installed on your system along with the following libraries:
